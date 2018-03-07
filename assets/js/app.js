@@ -5,7 +5,7 @@ window.onload = init();
 function init() {
 
 	window.addEventListener('scroll', function (e) {
-		var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+			var distanceY = window.pageYOffset || document.documentElement.scrollTop,
 			shrinkOn = 300,
 			header = document.querySelector("header");
 		if (distanceY > shrinkOn) {
@@ -49,7 +49,7 @@ function menuBuilder(obj) {
 		
 		obj.forEach(function (item) {
 			
-			theMenu = theMenu + '<li><a href="#>' + item.MenuName + '</a>';
+			theMenu = theMenu + '<li><a href="#">' + item.MenuName + '</a>';
 			
 			if (item.Menus.length > 0) {
 			
