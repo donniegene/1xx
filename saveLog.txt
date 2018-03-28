@@ -1,20 +1,19 @@
-﻿Started: 3/7/2018 4:37 PM
+﻿Started: 3/21/2018 9:40 PM
 
-/assets/css/footer.css - same - not transferred
-/assets/css/header-resize.css - same - not transferred
-/assets/data/menu.json - same - not transferred
+saveLog.txt - Put operation successful
+assets\css\header-resize.css - Put operation successful
 assets\css\style.css - Put operation successful
-assets\js\app.js - Put operation successful
 index.html - Put operation successful
 README.md - Put operation successful
+/assets/css/footer.css - Get operation successful
+/assets/data/menu.json - Get operation successful
 /assets/js/index.html - error occurred - An FTP error occurred - cannot get index.html.  Access denied.  The file may not exist, or there could be a permission problem. 
 /assets/js/README.md - error occurred - An FTP error occurred - cannot get README.md.  Access denied.  The file may not exist, or there could be a permission problem. 
 
 File activity incomplete. 2 file(s) or folder(s) were not completed.
-Files updated: 4
-Files skipped: 3
+Files updated: 7
 Files with errors: 2
 /assets/js/index.html
 /assets/js/README.md
 
-Finished: 3/7/2018 4:37 PM
+Finished: 3/21/2018 9:40 PM
